@@ -1,4 +1,4 @@
-package tp1;
+package src.tp1;
 
 public class Counter {
 	private int comp;

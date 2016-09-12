@@ -1,4 +1,4 @@
-package tp1;
+package src.tp1;
 
 import java.util.Random;
 

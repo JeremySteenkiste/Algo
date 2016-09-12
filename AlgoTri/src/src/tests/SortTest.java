@@ -4,7 +4,7 @@
  * @author <a href="mailto:Frederic.Guyomarch@univ-lille1.fr">FrÃ©dÃ©ric Guyomarch</a>
  * IUT-A, Universite de Lille, Sciences et Technologies
  */
-package Main;
+package src.tests;
 
 import static org.junit.Assert.*;
 
